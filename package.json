@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "Make more trevor-friendly",
   "main": "index.js",
-  "scripts": {
-    "test": "trevor"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jgr3go/trevorer.git"
