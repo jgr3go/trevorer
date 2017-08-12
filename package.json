@@ -1,0 +1,22 @@
+{
+  "name": "trevorer",
+  "version": "1.0.0",
+  "description": "Make more trevor-friendly",
+  "main": "index.js",
+  "scripts": {
+    "test": "trevor"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgr3go/trevorer.git"
+  },
+  "keywords": [
+    "trevor"
+  ],
+  "author": "Jon Gregorowicz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jgr3go/trevorer/issues"
+  },
+  "homepage": "https://github.com/jgr3go/trevorer#readme"
+}
